@@ -14,7 +14,7 @@ obd-examples/
 ├── voltage_reader.py         # Live battery voltage display using a custom command
 ```
 
-## ▶️ Voraussetzungen
+## ▶️ Requirements
 - Python 3.10+
 - OBD-II Bluetooth or USB adapter
 - Car with an active OBD-II port
