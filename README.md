@@ -11,7 +11,7 @@ The graphical user interfaces are built using [CustomTkinter](https://github.com
 obd-examples/
 ├── connection_gui.py         # GUI for manually connecting/disconnecting to OBD-II
 ├── live_dashboard.py         # Real-time dashboard (RPM, speed, temperature)
-├── voltage_reader.py         # Live battery voltage display using a custom command
+├── batteryvol.py             # Live battery voltage display using a custom command
 ```
 
 ## ▶️ Requirements
